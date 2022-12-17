@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: pun-api
-        image: ghcr.io/khatthaphone/devops-go-example:6a469b025465987cde0c63d998a49a37e4f1661e
+        image: ghcr.io/khatthaphone/devops-go-example:1404260ab6b44869b44aa7435391b883a1ad3087
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
